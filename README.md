@@ -1,0 +1,1 @@
+A simple web-based task management app that helps users organize personal notes efficiently. It allows users to add, edit, delete, and view notes. Built using JSP, Servlets, JDBC, and MySQL for backend functionality, with Bootstrap for a clean, responsive, and user-friendly interface.
